@@ -1,7 +1,7 @@
 # Atividade - Estrutura de Dados em Java
 
-**Nome:** Ana Beatriz Ramos Da silva
-**Turma:** Turma A, 4 período ads- manhã
+Nome: Ana Beatriz Ramos da Silva  
+Turma: Turma A — 4º período ADS (manhã)
 
 ## Descrição
 Atividade de Estrutura de Dados com o objetivo de criar um nó em Java e explicar a diferença entre LIFO e FIFO.  
@@ -16,4 +16,7 @@ O código foi feito e testado online, e os arquivos foram enviados para o GitHub
 1. Copie o conteúdo do arquivo `Node.java`.
 2. Cole em um site que rode Java (como [Programiz Java Online](https://www.programiz.com/java-programming/online-compiler/)).
 3. Clique em **Run**.
-4. O resultado deve mostrar:
+4. Resultado esperado:
+Lista de nós:
+10 20
+
