@@ -1,28 +1,27 @@
 public class Node {
-    int data;
-    Node next;
+    int dado;
+    Node proximo;
 
-    public Node(int data) {
-        this.data = data;
-        this.next = null;
+    public Node(int dado) {
+        this.dado = dado;
+        this.proximo = null;
     }
 
-    public void displayNode() {
-        System.out.print(data + " ");
+    public void mostrarNo() {
+        System.out.print(dado + " ");
     }
 
     public static void main(String[] args) {
         Node primeiro = new Node(10);
         Node segundo = new Node(20);
-        primeiro.next = segundo;
+        primeiro.proximo = segundo;
 
-        System.out.println("Lista de nos:");
+        System.out.println("Lista de nós:");
         Node atual = primeiro;
         while (atual != null) {
-            atual.displayNode();
-            atual = atual.next;
+            atual.mostrarNo();
+            atual = atual.proximo;
         }
         System.out.println();
     }
 }
-
