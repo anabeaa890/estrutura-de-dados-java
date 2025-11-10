@@ -6,7 +6,7 @@ Outro caso parecido é quando usamos o **Ctrl+Z** para desfazer ações — a ú
 
 Já o **FIFO** (First In, First Out), “primeiro a entrar, primeiro a sair”, segue a lógica de uma fila.  
 Um exemplo menos comum é a **fila de vídeos em um aplicativo de streaming**: o primeiro vídeo que foi adicionado à fila é o primeiro que começa a rodar.  
-Também dá pra comparar com **mensagens enviadas para uma impressora** — o primeiro documento enviado é o primeiro a ser impresso.
+Também dá pra comparar com **mensagens enviadas para uma impressora**: o primeiro documento enviado é o primeiro a ser impresso.
 
 **Resumindo:**  
 - LIFO → último que entra, primeiro que sai. 
