@@ -9,5 +9,5 @@ Um exemplo menos comum é a **fila de vídeos em um aplicativo de streaming**: o
 Também dá pra comparar com **mensagens enviadas para uma impressora** — o primeiro documento enviado é o primeiro a ser impresso.
 
 **Resumindo:**  
-- LIFO → último que entra, primeiro que sai (ex.: abas do navegador).  
-- FIFO → primeiro que entra, primeiro que sai (ex.: fila de vídeos em streaming ou impressão).
+- LIFO → último que entra, primeiro que sai. 
+- FIFO → primeiro que entra, primeiro que sai.
