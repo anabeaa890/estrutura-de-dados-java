@@ -1,13 +1,13 @@
 # Diferença entre LIFO e FIFO
 
-**LIFO (Last In, First Out)** significa "último a entrar, primeiro a sair".  
-Funciona como uma pilha — o último item colocado é o primeiro a ser removido.  
-Exemplo: pilha de pratos, histórico de ações (Ctrl+Z).
+O conceito de **LIFO** (Last In, First Out), que significa “último a entrar, primeiro a sair”, funciona como uma pilha.  
+Um bom exemplo é a **pilha de abas abertas no navegador**: a última aba que você abriu é a primeira que você fecha.  
+Outro caso parecido é quando usamos o **Ctrl+Z** para desfazer ações — a última ação feita é sempre a primeira que é desfeita.
 
-**FIFO (First In, First Out)** significa "primeiro a entrar, primeiro a sair".  
-Funciona como uma fila — o primeiro item colocado é o primeiro a sair.  
-Exemplo: fila de banco, fila para comprar ingressos.
+Já o **FIFO** (First In, First Out), “primeiro a entrar, primeiro a sair”, segue a lógica de uma fila.  
+Um exemplo menos comum é a **fila de vídeos em um aplicativo de streaming**: o primeiro vídeo que foi adicionado à fila é o primeiro que começa a rodar.  
+Também dá pra comparar com **mensagens enviadas para uma impressora** — o primeiro documento enviado é o primeiro a ser impresso.
 
-## Exemplos reais:
-- **LIFO:** pilha de pratos, desfazer ações no computador.  
-- **FIFO:** fila de atendimento, fila de impressão.
+**Resumindo:**  
+- LIFO → último que entra, primeiro que sai (ex.: abas do navegador).  
+- FIFO → primeiro que entra, primeiro que sai (ex.: fila de vídeos em streaming ou impressão).
